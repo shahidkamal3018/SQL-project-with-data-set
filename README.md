@@ -1,4 +1,4 @@
-# SQL-project-with-data-set
+# SQL-project-all-sql-concepts-with-dataset
 
 **Practice Questions** 
 
